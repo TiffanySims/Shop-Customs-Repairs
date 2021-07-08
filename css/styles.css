@@ -224,6 +224,8 @@ section {
 }
 
 .about__item--h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
   margin-bottom: 0.8rem;
 }
 .about__item--paragraph {
@@ -305,11 +307,7 @@ section {
 .question {
   margin-bottom: 0.5rem;
 }
-.answer {
-  max-height: 0;
-  overflow: hidden;
-  transition: all 0.5s;
-}
+
 .faq i {
   position: absolute;
   font-size: 1.2rem;
@@ -320,6 +318,11 @@ section {
 
 .faq a {
   color: #444;
+}
+.answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s;
 }
 .faq:target .answer {
   max-height: 30rem;
@@ -337,7 +340,7 @@ section {
 }
 .additional__questions p {
   color: var(--main-white);
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin: 1rem 0;
 }
 .additional__questions h4 {

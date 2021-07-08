@@ -319,7 +319,7 @@
             <div class="coupon__body">
             <h3>Brake Check</h3>
             <p>Includes: A Road Test, A Visual Inspection, and Checking the level of the brake fluid</p>
-            <p>Offer good thru: 12/31/2020</p>
+            <p>Offer good thru: 12/31/2022</p>
             </div>
           </div>
           <div class="coupon">
@@ -328,7 +328,7 @@
 
             <h3>Check Engine Light</h3>
             <p>If your car or truck's Check Engine Light comes on, we'll check it for FREE</p>
-            <p>Offer good thru: 12/31/2020</p>
+            <p>Offer good thru: 12/31/2022</p>
           </div>
           </div>
           <div class="coupon">
@@ -336,7 +336,7 @@
            <div class="coupon__body">
             <h3>Any Repair Service</h3>
             <p> Maximum savings $100</p>
-            <p>Offer good thru: 12/31/2020</p>
+            <p>Offer good thru: 12/31/2022</p>
           </div>
           </div>
           <div class="coupon">
@@ -344,7 +344,7 @@
               <div class="coupon__body">
             <h3>Transmission Rebuild</h3>
             <p></p>
-            <p>Offer good thru: 12/31/2020</p>
+            <p>Offer good thru: 12/31/2022</p>
           </div>
           </div>
         </div>
